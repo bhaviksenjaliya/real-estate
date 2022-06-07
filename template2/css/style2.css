@@ -1,0 +1,552 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container7
+{
+    background-image: url("http://gajeragroup.in/images/bg-21.jpg");
+    background-size: 110rem 52.4rem;
+    background-position:60% 1%;
+    background-repeat: no-repeat;
+    background-color: #fff;
+}
+.residence-part
+{
+    text-align: center;
+    margin-top: 6.5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+#Residence
+{
+    font-family:'oswald',sans-serif;
+    font-weight: 300;
+    font-size: 2.3rem;
+}
+ #line
+{
+  width: 4rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 1.3rem;
+}
+.residence-ul
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.redidence-link
+{
+   list-style-type: none;
+   font-family:oswald, sans-serif;
+   margin-top: 2.5rem;
+}
+.a2
+{
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: black;
+    margin: 1.3rem;
+    word-spacing: 0.1rem;
+}
+.container-fluid
+{
+   display: flex;
+   justify-content: space-around;
+   background: #fff;
+   margin-left: 6rem;
+}
+.group
+{
+   margin-top: 4.8rem;
+   margin-left: 3rem;
+}
+.penthouse-group
+{
+    font-size: 1.1rem;
+    font-weight: 600;
+    font-family: oswald,sans-serif;
+}
+.gracious
+{
+    width: 14rem;
+    font-size: 0.9rem;
+    font-family: sans-serif;
+    line-height: 1.4rem;
+    margin-top: 1rem;
+    color: #888;
+}
+.table
+{
+    width: 16rem;
+    margin-top: 5.5rem;
+    margin-left: 2rem;
+}
+.floor
+{
+    margin-bottom: 0.7rem;
+    padding-bottom: 0.7rem;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #888;
+    font-family: sans-serif;
+    color: #888;
+}
+.penthouse
+{
+    margin-top: 4.7rem;
+    margin-left: 3rem;
+}
+.penthouse img
+{
+    width: 80%;
+}
+.number
+{
+    color: black;
+    font-weight: bold;
+}
+/* container7 second part */
+.container-block1
+{
+    display: flex;
+    margin-top: 2rem;
+}
+.yoga-img
+{
+    width: 100vh;
+    margin-top: 5rem;
+    height: 95vh;
+}
+.fluid-group
+{
+  margin-top: 5rem;
+  background-color: #2F2B48;
+  height: 585px;
+  padding-right: 1rem;
+}
+.fluid-group1
+{
+    text-align: center;
+    margin-top: 5.8rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.fluid-header
+{
+    font-family:'oswald',sans-serif;
+    font-weight: 300;
+    font-size: 2.3rem;
+    color: #fff;
+}
+.line-fluid
+{
+    width: 4rem;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-top: 1.3rem;
+}
+.ul-list-group
+{
+    display: flex;
+    padding-right: 5rem;
+    margin-left: 3rem;
+}
+.ul-list1
+{
+    color: #fff;
+    width: 13rem;
+    font-family: sans-serif;
+    margin: 1.5rem;
+    line-height: 2.9rem;
+    font-size: 15px;
+}
+.fitness
+{
+    line-height: 1.7rem;
+}
+ 
+/* container7 third part contact information */
+.fluid-contact-block
+{
+    display: flex;
+    background-image: url("../images/contact-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: 10% 50%;
+}
+.contact-block
+{
+    background-color:rgba(49,109,138,0.9);
+    margin-right: 30rem;
+    width: 70%;
+    height: 140vh;
+}
+.contact
+{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    margin-left: 32rem;
+    padding-top: 90px;
+}
+.contact-heading
+{
+    font-family:'oswald',sans-serif;
+    font-weight: 300;
+    font-size: 2.3rem;
+}
+#contact-line
+{
+    width: 4rem;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-top: 1.3rem;    
+}
+.contant-contact-block
+{
+    margin-left: 5rem;
+}
+.conatct-information-block1
+{
+    margin-top: 9rem;
+}
+.case
+{
+    color: #fff;
+    font-family: 'oswald',sans-serif;
+    font-size: 1.9rem;
+}
+.message-heading
+{
+    color: #fff;
+    font-family: 'oswald',sans-serif;
+    font-size: 1.9rem;
+
+}
+.information-paragraph
+{
+    color: #fff;
+    font-family: sans-serif;
+    margin-top: 0.8rem;
+}
+.conatct-information-block2
+{
+    display: flex;
+        text-align: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+.question-heading
+{
+    color: #fff;
+    font-family: 'oswald',sans-serif;
+    margin-left: 2rem;
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+}
+.number-link
+{
+    color: #fff;
+    font-family: 'oswald',sans-serif;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin-left: 0.4rem;
+    margin-top: 0.5rem;
+    font-weight: bold;
+}
+.number-link:hover
+{
+    color: #0A58CA;
+    transition-delay: 0.3s;
+    background: transparent;
+}
+.days
+{
+    color: #fff;
+    font-family: 'oswald',sans-serif;
+    margin-top: 3rem;
+    font-size: 15px;
+}
+.time
+{
+    color: #fff;
+    font-family: 'oswald',sans-serif;
+    font-size: 15px;
+}
+.sunday
+{
+    color: #fff;
+    font-family: 'oswald',sans-serif;
+    font-size: 15px;
+}
+.contact-link
+{
+    margin-top: 2rem;
+    font-size: 15px;
+}
+.contact-link a
+{
+    color: #fff;
+    font-family: 'oswald',sans-serif;
+    text-decoration: none;
+}
+.arrow
+{
+    font-size: 1.6rem;
+}
+.form-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 200px;
+    border: 2px solid #fff;
+    height: 65vh;
+    padding: 4rem;
+    padding-left: 5rem;
+    padding-right: 2.5rem;
+    padding-bottom: -5rem;
+    background-color: #fff;
+    border-radius: 5.5px;
+    margin-top: 14rem;
+    position: relative;
+    right: 450px;
+}
+.input-container
+{
+    display: flex;
+    margin-top: -1rem;
+}
+.input-email
+{
+    margin-left: -2.7rem;
+}
+.input-email input
+{
+    font-family: 'oswald',sans-serif;
+    padding: 0.9rem;
+    border-radius: 0.4rem;
+    padding-right: 4rem;
+    margin: 0.5rem;
+    background-color: #F9F9F9;
+    font-weight: bold;
+    font-size: 0.9rem;
+    border: 1px solid #e6e2f5;
+}
+.number input
+{
+    background-color: #F9F9F9;
+    font-family: 'oswald',sans-serif;
+    padding: 0.9rem;
+    border-radius: 0.4rem;
+    padding-right: 4rem;
+    margin: 0.5rem;
+    margin-left: 1.9rem;
+    font-weight: bold;
+    font-size: 0.9rem;
+    border: 1px solid #e6e2f5;
+}
+.text-area
+{
+    margin-left: -2.7rem;
+}
+.text-area textarea
+{
+    font-family: 'oswald',sans-serif;
+    border-radius: 0.5rem;
+    background-color: #F9F9F9;
+    font-weight: bold;
+    vertical-align: middle;
+    padding: 1rem;
+    font-size: 0.9rem;
+    border: 1px solid #e6e2f5;
+}
+.message-button
+{
+   text-align: center;
+   margin-left: -2.8rem;
+   margin-top: 1rem;
+}
+.message-button button
+{
+   width: 30rem;
+   padding: 0.9rem;
+   font-family: 'oswald',sans-serif;
+   border-radius: 0.4rem;
+   background-color: rgb(0,69,134);
+   color: #fff;
+   font-size: 1rem;
+   font-weight: bold;
+   border: 1px solid #e6e2f5;
+}
+button:hover
+{
+    background-color: #081828;
+    cursor: pointer;
+}
+/* container8 footer content */
+.container8
+{
+ background-color: #081828;
+ display: flex;
+ justify-content: center;
+ padding-bottom: 7rem;
+}
+.footer-group
+{
+}
+.white-logo 
+{
+  width: 11rem;
+  margin-left: -10rem; 
+  margin-top: 9rem;
+}
+.icon-class
+{ 
+ color: #888;   
+ margin-left: -8rem;
+ margin-top: 2rem;
+}
+#icon-list:hover
+{
+    color: #167BD4;
+}
+.icon-list
+{
+    margin: 0.5rem;   
+}
+.icon-list i
+{
+    font-size: 1rem;
+    color: #888;
+}
+.footer-group2
+{
+   margin-left: 8rem;
+   justify-content: center;
+   align-items: center;
+}
+.footer-heading
+{
+  font-family: 'oswald' , sans-serif;
+  color: #D2D6DC;
+  font-size: 1.1rem;
+  margin-top: 6rem;
+}
+.footer-adderess
+{
+  margin-top: 2rem;
+}
+.adderess
+{
+    font-family: 'oswald';
+    color:#D2D6DC;
+    font-size: 0.9rem;
+    width: 23rem;
+    line-height: 1.3rem;
+}
+.footer-span
+{
+    font-family: sans-serif;
+    color: #888;
+    font-size: 0.9rem;
+    margin-top: 0.9rem;
+    font-weight: 300;
+}
+.footer-span a
+{
+    font-family: sans-serif;
+    color: #888;
+    font-size: 0.9rem;
+    margin-top: 0.9rem;
+    font-weight: 300;
+    text-decoration: none;
+    line-height: 2rem;
+}
+.footer-contact
+{
+    
+}
+.Phone-number
+{
+    font-family: 'oswald';
+    color:#D2D6DC;
+    font-size: 0.9rem;
+    text-decoration: none;
+    margin-top: 1rem;
+}
+.Phone-number a:hover
+{
+    color: #4990D2;
+}
+.email-inforamtion
+{
+
+}
+.footer-email
+{
+    color:#D2D6DC;
+    font-size: 0.9rem;
+    text-decoration: none;
+    font-family: 'oswald';
+    margin-top: 0.7rem;
+}
+.footer-email a:hover
+{
+    color: #4990D2;
+}
+.footer-link
+{
+  /* margin-left: -16rem; */
+}
+.footer-link-heading
+{
+  font-family: 'oswald' , sans-serif;
+  color: #D2D6DC;
+  font-size: 1.1rem;
+  margin-top: 6rem;
+}
+.footer-ul
+{
+   margin-top: 2rem;
+}
+.footer-list
+{
+    margin-top: 0.7rem;
+    list-style-type: none;
+}
+.footer-list a
+{
+    color:#D2D6DC;
+    text-decoration: none;
+    font-family: 'oswald';
+    color:#D2D6DC;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+.footer-copyright
+{
+    background-color:rgb(20, 46, 72);
+    color: rgb(144, 163, 181);
+    padding: 0.9rem;
+    text-align: center;
+    font-family: sans-serif;
+}

@@ -1,0 +1,1288 @@
+@media screen and (max-width:1100px)
+   {
+/*   container1  */
+   .home
+   {
+     height: 150vh;
+    }
+    
+    .home::before
+    {
+        content: "";
+        position: absolute;
+        background: url("http://gajeragroup.in/images/hero-01.jpg") no-repeat center center/cover;
+        width: 100%;
+        height: 145vh;
+        z-index: -1;
+        opacity: 0.9;
+    }
+   .container{
+     display: flex;
+     justify-content: space-around;
+     text-align: center;
+     align-items: center;  
+    } 
+   .logo-white img
+    {
+      width: 13rem;
+    }
+   .btn
+    {
+      font-size: 2rem;
+      color: white;
+      float: right;
+      line-height: 4.8rem;
+      cursor: pointer;
+      display: none;
+    }   
+   .A1
+    {
+      color: white;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+   .button
+    {
+      padding: 0.8rem;
+      border: 2px solid white;
+      border-radius: 5%;
+      font-family: 'Oswald', sans-serif;
+      font-weight: bolder;
+      color: white;
+    }
+   .button
+    {
+      padding-left: 1.9rem;
+      padding-right: 1.9rem;
+    }
+   .grand, .great
+    {
+      font-size: 60px;
+      font-family: 'oswald',sans-serif;
+      line-height: 6.1rem;
+    }
+   .paragraph1,.paragraph2
+    {  
+      font-size: 1.3rem;
+      width: 55rem;
+      font-family:sans-serif;
+      line-height: 2.2rem;
+    }
+}
+
+/* 895px */
+@media screen and (max-width:895px)
+    {
+/*   container1  */
+   .home
+   {
+     height: 150vh;
+    }
+   .container{
+     display: flex;
+     justify-content: space-around;
+     text-align: center;
+     align-items: center;  
+    } 
+   .logo-white img
+    {
+      width: 13rem;
+    }
+   .btn
+    {
+      font-size: 2rem;
+      color: white;
+      float: right;
+      line-height: 4.8rem;
+      cursor: pointer;
+      display: none;
+    }   
+   .A1
+    {
+      color: white;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+   .button
+    {
+      padding: 0.8rem;
+      border: 2px solid white;
+      border-radius: 5%;
+      font-family: 'Oswald', sans-serif;
+      font-weight: bolder;
+      color: white;
+    }
+   .button
+    {
+      padding-left: 1.9rem;
+      padding-right: 1.9rem;
+    }
+   .grand, .great
+    {
+      font-size: 60px;
+      font-family: 'oswald',sans-serif;
+      line-height: 6.1rem;
+    } 
+   .paragraph1,.paragraph2
+    {  
+      font-size: 1.2rem;
+      width: 52rem;
+      font-family:sans-serif;
+      line-height: 2.2rem;
+    }
+}
+@media screen and (max-width:855px)
+    {
+/*   container1  */
+    .home
+     {
+     height: 150vh;
+    }
+    .home::before{
+        content: "";
+        position: absolute;
+        background: url("http://gajeragroup.in/images/hero-01.jpg") no-repeat center center/cover;
+        width: 100%;
+        height: 136vh;
+        z-index: -1;
+        opacity: 0.9;
+    }
+   .container{
+     display: flex;
+     justify-content: space-around;
+     text-align: center;
+     align-items: center;  
+    }  
+   .logo-white img
+    {
+      width: 11rem;
+    }
+   .btn
+    {
+      font-size: 2rem;
+      color: white;
+      float: right;
+      line-height: 4.8rem;
+      cursor: pointer;
+      display: none;
+    }   
+   .A1
+    {
+      color: white;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+   .button
+    {
+      padding: 0.8rem;
+      border: 2px solid white;
+      border-radius: 5%;
+      font-family: 'Oswald', sans-serif;
+      font-weight: bolder;
+      color: white;
+    }
+   .button
+    {
+      padding-left: 1.9rem;
+      padding-right: 1.9rem;
+    }
+   .grand, .great
+    {
+      font-size: 60px;
+      font-family: 'oswald',sans-serif;
+      line-height: 6.1rem;
+    } 
+   .paragraph1,.paragraph2
+    {  
+      font-size: 1.2rem;
+      width: 52rem;
+      font-family:sans-serif;
+      line-height: 2.2rem;
+    } 
+}
+@media screen and (max-width:824px)
+    {
+/*   container1  */
+    .home
+     {
+     height: 150vh;
+    }
+   .container{
+     display: flex;
+     justify-content: space-around;
+     text-align: center;
+     align-items: center;  
+    }  
+   .logo-white img
+    {
+      width: 11rem;
+    }
+   .btn
+    {
+      font-size: 2rem;
+      color: white;
+      float: right;
+      line-height: 4.8rem;
+      cursor: pointer;
+      display: none;
+    }   
+   .A1
+    {
+      color: white;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+   .button
+    {
+      padding: 0.8rem;
+      border: 2px solid white;
+      border-radius: 5%;
+      font-family: 'Oswald', sans-serif;
+      font-weight: bolder;
+      color: white;
+    }
+   .button
+    {
+      padding-left: 1.2rem;
+      padding-right: 1.2rem;
+    }
+   .grand, .great
+    {
+      font-size: 60px;
+      font-family: 'oswald',sans-serif;
+      line-height: 6.1rem;
+    } 
+   .paragraph1,.paragraph2
+    {  
+      font-size: 1rem;
+      width: 45rem;
+      font-family:sans-serif;
+      line-height: 2.2rem;
+    } 
+}
+
+@media screen and (max-width:802px)
+    {
+/*   container1  */
+    .home
+     {
+     height: 150vh;
+    }
+   .container{
+     display: flex;
+     justify-content: space-around;
+     text-align: center;
+     align-items: center;  
+    }  
+   .logo-white img
+    {
+      width: 11rem;
+    }
+   .btn
+    {
+      font-size: 2rem;
+      color: white;
+      float: right;
+      line-height: 4.8rem;
+      cursor: pointer;
+      display: none;
+    }   
+   .A1
+    {
+      color: white;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+   .button
+    {
+      padding: 0.8rem;
+      border: 2px solid white;
+      border-radius: 5%;
+      font-family: 'Oswald', sans-serif;
+      font-weight: bolder;
+      color: white;
+    }
+   .button
+    {
+      padding-left: 1.2rem;
+      padding-right: 1.2rem;
+    }
+   .grand, .great
+    {
+      font-size: 60px;
+      font-family: 'oswald',sans-serif;
+      line-height: 6.1rem;
+    } 
+   .paragraph1,.paragraph2
+    {  
+      font-size: 1rem;
+      width: 45rem;
+      font-family:sans-serif;
+      line-height: 2.2rem;
+    } 
+}
+
+/* features */
+@media screen and (max-width:1140px)
+{
+  .features
+{
+    text-align: center;
+    margin-top: 6.5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.heading-features
+{
+    font-family:'oswald',sans-serif;
+    font-weight: 300;
+    font-size: 1.9rem;
+}
+ #hr
+{
+  width: 3.8rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 1.3rem;
+}
+.container2
+{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-right:1rem ;
+    margin-left:0.5rem ;
+}
+
+.cards1
+{
+    background-image: url("../images/fbox_1.jpg");
+    width: 15rem;
+    height: 21rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+}
+.hr
+{
+  width: 4rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 1.2rem;
+}
+.card-heading
+{
+    font-family:'oswald',sans-serif;
+    letter-spacing: 0.1rem;
+    margin-top: 5.9rem;
+}
+.luxury
+{
+    margin-top: 0.9rem;
+    font-size: 2rem;
+    font-family:'oswald',sans-serif;
+    margin-right:2.5rem ;
+    margin-left:2.5rem ;
+}
+.cards2
+{
+    background-image: url("../images/fbox_2.jpg");
+    width: 15rem;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.cards3
+{
+    background-image: url("../images/fbox_3.jpg");
+    width: 15rem;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.cards4
+{
+    background-image: url("../images/fbox_4.jpg");
+    width: 15rem;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.big-container{
+  background-color: #f9f9f9;
+  margin-top: -2rem;
+}
+}
+
+@media screen and (max-width:1005px)
+{
+
+  .big-container{
+    background-color: #f9f9f9;
+    margin-top: -2rem;
+}
+  .features
+{
+    text-align: center;
+    margin-top: 6.5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.heading-features
+{
+    font-family:'oswald',sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+}
+ #hr
+{
+  width: 3.8rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 1.3rem;
+}
+.container2
+{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-left: 0.4rem;
+    flex-wrap: wrap;
+}
+
+.cards1
+{
+    background-image: url("../images/fbox_1.jpg");
+    width: 22rem;
+    height: 21rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+}
+.hr
+{
+  width: 4rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 1.2rem;
+}
+.card-heading
+{
+    font-family:'oswald',sans-serif;
+    letter-spacing: 0.1rem;
+    margin-top: 5.9rem;
+}
+.luxury
+{
+    margin-top: 0.9rem;
+    font-size: 1.8rem;
+    font-family:'oswald',sans-serif;
+    margin-right:2.5rem ;
+    margin-left:2.5rem ;
+}
+.cards2
+{
+    background-image: url("../images/fbox_2.jpg");
+    width: 22rem;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.cards3
+{
+    background-image: url("../images/fbox_3.jpg");
+    width: 22rem;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+.cards4
+{
+    background-image: url("../images/fbox_4.jpg");
+    width: 22rem;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+}
+@media screen and (max-width:745px) and (max-width:855px)
+{
+
+  .big-container{
+    background-color: #f9f9f9;
+    margin-top: -2rem;
+}
+  .features
+{
+    text-align: center;
+    margin-top: 6.5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.heading-features
+{
+    font-family:'oswald',sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+}
+ #hr
+{
+  width: 3.8rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 1.3rem;
+}
+.container2
+{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-left: 0.4rem;
+    flex-wrap: wrap;
+}
+
+.cards1
+{
+    background-image: url("../images/fbox_1.jpg");
+    width: 20rem;
+    height: 21rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+}
+.hr
+{
+  width: 4rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 1.2rem;
+}
+.card-heading
+{
+    font-family:'oswald',sans-serif;
+    letter-spacing: 0.1rem;
+    margin-top: 5.9rem;
+}
+.luxury
+{
+    margin-top: 0.9rem;
+    font-size: 1.8rem;
+    font-family:'oswald',sans-serif;
+    margin-right:2.5rem ;
+    margin-left:2.5rem ;
+}
+.cards2
+{
+    background-image: url("../images/fbox_2.jpg");
+    width: 20rem;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.cards3
+{
+    background-image: url("../images/fbox_3.jpg");
+    width: 20rem;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+.cards4
+{
+    background-image: url("../images/fbox_4.jpg");
+    width: 20rem;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+}
+@media screen and (max-width:680px)
+{
+
+  .big-container{
+    background-color: #f9f9f9;
+    margin-top: -2rem;
+}
+  .features
+{
+    text-align: center;
+    margin-top: 6.5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.heading-features
+{
+    font-family:'oswald',sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+}
+ #hr
+{
+  width: 3.8rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 1.3rem;
+}
+.container2
+{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-left: 0.4rem;
+    flex-wrap: wrap;
+}
+
+.cards1
+{
+    background-image: url("../images/fbox_1.jpg");
+    width: 18rem;
+    height: 21rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+}
+.hr
+{
+  width: 4rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 1.2rem;
+}
+.card-heading
+{
+    font-family:'oswald',sans-serif;
+    letter-spacing: 0.1rem;
+    margin-top: 5.9rem;
+}
+.luxury
+{
+    margin-top: 0.9rem;
+    font-size: 1.8rem;
+    font-family:'oswald',sans-serif;
+    margin-right:2.5rem ;
+    margin-left:2.5rem ;
+}
+.cards2
+{
+    background-image: url("../images/fbox_2.jpg");
+    width: 18rem;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.cards3
+{
+    background-image: url("../images/fbox_3.jpg");
+    width: 18rem;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+.cards4
+{
+    background-image: url("../images/fbox_4.jpg");
+    width: 18rem;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+}
+@media screen and (max-width:682px)
+{
+
+  .big-container{
+    background-color: #f9f9f9;
+    margin-top: -2rem;
+}
+  .features
+{
+    text-align: center;
+    margin-top: 6.5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.heading-features
+{
+    font-family:'oswald',sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+}
+ #hr
+{
+  width: 3.8rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 1.3rem;
+}
+.container2
+{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-left: 0.4rem;
+    flex-wrap: wrap;
+}
+
+.cards1
+{
+    background-image: url("../images/fbox_1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 21rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+}
+.hr
+{
+  width: 4rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 1.2rem;
+}
+.card-heading
+{
+    font-family:'oswald',sans-serif;
+    letter-spacing: 0.1rem;
+    margin-top: 5.9rem;
+}
+.luxury
+{
+    margin-top: 0.9rem;
+    font-size: 1.8rem;
+    font-family:'oswald',sans-serif;
+    margin-right:2.5rem ;
+    margin-left:2.5rem ;
+}
+.cards2
+{
+    background-image: url("../images/fbox_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+.cards3
+{
+    background-image: url("../images/fbox_3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+.cards4
+{
+    background-image: url("../images/fbox_4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 21rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+}
+
+/* features2 */
+@media screen and (max-width:1140px) {
+  
+
+.container3
+{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 3rem;
+    margin-left: 1rem;
+}
+.shivanta-img
+{
+    margin-top: 2rem;
+    margin-left: 0.2rem;
+}
+.shivanta-img img
+{
+   width: 30rem;
+   height: 36rem;
+}
+.right-heading
+{
+    font-size: 1.3rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    margin-top: 3.5rem;
+    font-weight: 100;
+    font-family: 'oswald',sans-serif;
+}
+.aesthetics
+{
+    font-weight: 300;
+    line-height: 3.8rem;
+}
+.masterpiece
+{
+    font-size: 3.6rem;
+    line-height: 5rem;
+}
+.img-content
+{
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    color: darkgray;
+    margin-top: 2rem;
+    line-height: 2.3rem;
+}
+.right-content
+{
+    width: 24rem;   
+}
+/* container4 */
+
+.container4
+{
+    display: flex;
+    justify-content: space-around;
+}
+.left-heading   
+ {   
+    font-size: 1.3rem;
+    margin-right: 2rem;
+    margin-left: 4rem;
+    margin-top: 14rem;
+    font-weight: 100;
+    font-family: 'oswald',sans-serif; 
+}
+.stands
+{
+    font-weight: 300;
+    line-height: 3.8rem;
+}
+.apart
+{
+    font-size: 3.8rem;
+    line-height: 5rem;
+}
+.marvel
+{
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    color: darkgray;
+    margin-top: 2rem;
+    line-height: 2.3rem;
+}
+.left-content
+{
+    width: 26rem;   
+}
+.castle-img
+{
+    margin-top: 1.4rem;
+    margin-left: 1.9rem;
+}
+.castle-img img
+{
+   width: 30rem;
+   height: 36rem;
+}
+/* container5 */
+.container5
+{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 3rem;
+    margin-left: 1rem;
+}
+.img-box1
+{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.img-box1 img
+{
+    width: 30rem;
+    height: 36rem;
+}
+.content-box1
+{
+    font-size: 1.3rem;
+    margin-right: 5rem;
+    margin-left: 8rem;
+    margin-top: 13rem;
+    font-weight: 100;
+    font-family: 'oswald',sans-serif;
+}
+.pearl
+{
+    font-weight: 300;
+    line-height: 3.8rem;
+}
+.dark
+{
+    font-size: 3.8rem;
+    line-height: 5rem;
+}
+.fantastic
+{
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    color: darkgray;
+    margin-top: 2rem;
+    line-height: 2.3rem;
+}
+.box-content2
+{
+    width: 25rem;
+}
+/* container6 */
+.container6
+{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 12rem;
+}
+.content-box2
+{
+    font-size: 1.3rem;
+    margin-right: 2rem;
+    margin-left: 5.6rem;
+    margin-top: 14rem;
+    font-weight: 100;
+    font-family: 'oswald',sans-serif; 
+}
+.text-content5
+{
+    width: 25rem;
+}
+.get
+{
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 3.8rem;
+}
+.both
+{
+    font-size: 3.8rem;
+    line-height: 5rem;
+}
+.delicate
+{
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    color: darkgray;
+    margin-top: 2rem;
+    line-height: 2.3rem;
+}
+.img-box2
+{
+    margin-top: 1.4rem;
+    margin-left: 1.9rem;
+}
+.img-box2 img
+{
+    width: 30rem;
+    height: 36rem;
+}
+}
+
+
+@media screen and (max-width:950px) {
+  
+
+  .container3
+  {
+      display: flex;
+      justify-content: space-between;
+      margin-right: 3rem;
+      margin-left: 1rem;
+  }
+  .shivanta-img
+  {
+      margin-top: 2rem;
+      margin-left: 0.2rem;
+  }
+  .shivanta-img img
+  {
+     width: 25rem;
+     height: 32rem;
+  }
+  .right-heading
+  {
+      font-size: 1.2rem;
+      margin-right: 2rem;
+      margin-left: 2rem;
+      margin-top: 3.5rem;
+      font-weight: 100;
+      font-family: 'oswald',sans-serif;
+  }
+  .aesthetics
+  {
+      font-weight: 300;
+      line-height: 3.8rem;
+  }
+  .masterpiece
+  {
+      font-size: 3rem;
+      line-height: 4rem;
+  }
+  .img-content
+  {
+      font-size: 1.1rem;
+      font-family: sans-serif;
+      color: darkgray;
+      margin-top: 1rem;
+      line-height: 1.9rem;
+  }
+  .right-content
+  {
+      width: 20rem;   
+  }
+  /* container4 */
+  
+  .container4
+  {
+      display: flex;
+      justify-content: space-around;
+  }
+  .left-heading   
+   {   
+      font-size: 1.1rem;
+      margin-right: 2rem;
+      margin-left: 10rem;
+      margin-top: 10rem;
+      font-weight: 100;
+      font-family: 'oswald',sans-serif; 
+  }
+  .stands
+  {
+      font-weight: 300;
+      line-height: 3.8rem;
+  }
+  .apart
+  {
+      font-size: 3rem;
+      line-height: 5rem;
+  }
+  .marvel
+  {
+      font-size: 1.1rem;
+      font-family: sans-serif;
+      color: darkgray;
+      margin-top: 2rem;
+      line-height: 2.3rem;
+  }
+  .left-content
+  {
+      width: 26rem;   
+  }
+  .castle-img
+  {
+      margin-top: 1.4rem;
+      margin-left: 1.9rem;
+  }
+  .castle-img img
+  {
+     width: 25rem;
+     height: 32rem;
+  }
+  /* container5 */
+  .container5
+  {
+      display: flex;
+      justify-content: space-around;
+      margin-right: 3rem;
+      margin-left: 1rem;
+  }
+  .img-box1
+  {
+      margin-top: 2rem;
+      margin-left: 2rem;
+  }
+  .img-box1 img
+  {
+      width: 30rem;
+      height: 36rem;
+  }
+  .content-box1
+  {
+      font-size: 1.3rem;
+      margin-right: 5rem;
+      margin-left: 8rem;
+      margin-top: 13rem;
+      font-weight: 100;
+      font-family: 'oswald',sans-serif;
+  }
+  .pearl
+  {
+      font-weight: 300;
+      line-height: 3.8rem;
+  }
+  .dark
+  {
+      font-size: 3.8rem;
+      line-height: 5rem;
+  }
+  .fantastic
+  {
+      font-size: 1.1rem;
+      font-family: sans-serif;
+      color: darkgray;
+      margin-top: 2rem;
+      line-height: 2.3rem;
+  }
+  .box-content2
+  {
+      width: 25rem;
+  }
+  /* container6 */
+  .container6
+  {
+      display: flex;
+      justify-content: space-around;
+      padding-bottom: 12rem;
+  }
+  .content-box2
+  {
+      font-size: 1.3rem;
+      margin-right: 2rem;
+      margin-left: 5.6rem;
+      margin-top: 14rem;
+      font-weight: 100;
+      font-family: 'oswald',sans-serif; 
+  }
+  .text-content5
+  {
+      width: 25rem;
+  }
+  .get
+  {
+      font-size: 3rem;
+      font-weight: 300;
+      line-height: 3.8rem;
+  }
+  .both
+  {
+      font-size: 3.8rem;
+      line-height: 5rem;
+  }
+  .delicate
+  {
+      font-size: 1.1rem;
+      font-family: sans-serif;
+      color: darkgray;
+      margin-top: 2rem;
+      line-height: 2.3rem;
+  }
+  .img-box2
+  {
+      margin-top: 1.4rem;
+      margin-left: 1.9rem;
+  }
+  .img-box2 img
+  {
+      width: 30rem;
+      height: 36rem;
+  }
+  }

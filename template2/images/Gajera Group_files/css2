@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20220209165436im_/https://fonts.gstatic.com/s/oswald/v41/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvgUE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20220209165436im_/https://fonts.gstatic.com/s/oswald/v41/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20220209165436im_/https://fonts.gstatic.com/s/oswald/v41/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20220209165436im_/https://fonts.gstatic.com/s/oswald/v41/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20220209165436im_/https://fonts.gstatic.com/s/oswald/v41/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 16:54:36 Feb 09, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:05:35 May 31, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 90.805
+  exclusion.robots: 0.134
+  exclusion.robots.policy: 0.123
+  RedisCDXSource: 7.966
+  esindex: 0.011
+  LoadShardBlock: 58.762 (3)
+  PetaboxLoader3.datanode: 68.056 (4)
+  CDXLines.iter: 20.973 (3)
+  load_resource: 90.116
+  PetaboxLoader3.resolve: 29.602
+*/
